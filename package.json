@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sibfly",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SibFly — satellite-measured ground motion (subsidence / uplift) for any US address.",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-ffa1ee08e53c6df961bd85a098f9707361177cf42aa523fa73c0c33e1a8129f5",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }

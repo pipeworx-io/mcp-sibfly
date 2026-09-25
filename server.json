@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/sibfly",
   "title": "Sibfly",
   "description": "SibFly — satellite-measured ground motion (subsidence / uplift) for any US address.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/sibfly",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-sibfly",
